@@ -10,6 +10,7 @@ package com.mycompany.primeiroprojeto;
  * @author kaiop
  */
 public class Principal {
+    //Método principal
     public static void main(String[] args) {
         
     }
